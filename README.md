@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Ayushi Singh 👋
 
-<!--
-**ayushii07/ayushii07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 4th-year B.Tech student in Computer Science & Engineering, passionate about **data analytics, web development, and problem solving**.  
+I’ve worked as an intern at **Adani Port** (Aug 2024) and I’m now preparing for my next internship, starting **15th Aug 2025**.  
 
-Here are some ideas to get you started:
+Right now, I’m focused on learning **Python, SQL, and modern web technologies** while building small projects to apply my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- **Languages:** Python, SQL, HTML, CSS, PHP 
+- **Libraries:** Pandas, NumPy, Matplotlib *(learning)*  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook ,Power BI 
+- **Databases:** MySQL
+ 
+
+
+
+
+
+ 
+
+
+
+
+
